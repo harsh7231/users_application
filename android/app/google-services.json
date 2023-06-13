@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "81759919828",
+    "firebase_url": "https://vitcab-indriver-clone-default-rtdb.firebaseio.com",
+    "project_id": "vitcab-indriver-clone",
+    "storage_bucket": "vitcab-indriver-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81759919828:android:11d2615dafed79a700a541",
+        "android_client_info": {
+          "package_name": "com.nitinsaini.driversapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81759919828-vd75ulkom2967hn0b4l176sqm6d6ruf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoHGZHEq7iA225_0UdvIq9DVJRO5G_8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81759919828-vd75ulkom2967hn0b4l176sqm6d6ruf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81759919828:android:c86638726f58f39900a541",
+        "android_client_info": {
+          "package_name": "com.nitinsaini.usersapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81759919828-vd75ulkom2967hn0b4l176sqm6d6ruf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoHGZHEq7iA225_0UdvIq9DVJRO5G_8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81759919828-vd75ulkom2967hn0b4l176sqm6d6ruf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
